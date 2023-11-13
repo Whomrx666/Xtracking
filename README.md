@@ -21,7 +21,7 @@ $ python3 Xtracking.py
 - **IP Tracker**: To track someone's IP address 
 - **Show Your IP**: To see your own IP address
 - **Phone Tracker**: To track someone's phone number
--**Exit**: To exit tools
+- **Exit**: To exit tools
 ### Original Author
 <a href="https://github.com/Whomrx666"><img src="https://img.shields.io/badge/Original-Author-brightgreen.svg" alt=""/></a>
 
